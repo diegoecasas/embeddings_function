@@ -16,10 +16,11 @@ Enables embeddings applications:
 -Recommendations 
 -Classification
 
-
+Contenidos:
 1. Crear los embeddings.
 2. Text Similarity
 3. Analisis de sentimiento o semantic search/meaning.
 4. Classification.
 5. Recommendations.
+6. Vector Databases
    
