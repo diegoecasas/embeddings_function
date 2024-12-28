@@ -1,0 +1,12 @@
+
+
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+def create_embeddings(texts):
+  response = client.embeddings.create(
+    model="text-embedding-3-small",
+    input=texts
+  )
+  response_dict = response.model_dump()
+  
+  return [data['embedding'] for data in response_dict['data']]
