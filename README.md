@@ -22,5 +22,5 @@ Contenidos:
 3. Analisis de sentimiento o semantic search/meaning.
 4. Classification.
 5. Recommendations.
-6. Vector Databases
+6. Vector Databases with Chroma
    
