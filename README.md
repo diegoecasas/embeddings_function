@@ -15,3 +15,9 @@ Enables embeddings applications:
 -Semantic search 
 -Recommendations 
 -Classification
+
+
+1. Analisis de sentimiento o semantic search/meaning.
+2. Classification.
+3. Recommendations.
+   
